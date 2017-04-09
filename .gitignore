@@ -1,0 +1,16 @@
+.DS_Store
+/depend/
+/image/
+*.o
+Accelerometer.app
+Accelerometer.dbg
+Accelerometer.map
+Accelerometer.release.mak
+Accelerometer.sym
+Accelerometer.xip
+Accelerometer.xap
+Accelerometer.xiw
+image.fs
+merge.xdv
+merge.xpv
+MMA8452Q.pdf
